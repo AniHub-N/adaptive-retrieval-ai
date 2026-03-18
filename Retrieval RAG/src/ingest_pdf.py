@@ -1,6 +1,6 @@
 import fitz  # PyMuPDF
 import json
-from .chunker import chunk_text
+from .chunker import chunk_sections
 
 
 def extract_text_from_pdf(pdf_path):
