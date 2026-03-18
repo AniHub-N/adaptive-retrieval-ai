@@ -1,0 +1,17 @@
+[
+  {
+    "text": "RAG combines parametric and non-parametric memory for knowledge retrieval.",
+    "paper": "Retrieval-Augmented Generation",
+    "section": "Method"
+  },
+  {
+    "text": "Dense Passage Retrieval encodes queries and documents into vector embeddings.",
+    "paper": "Dense Passage Retrieval",
+    "section": "Method"
+  },
+  {
+    "text": "The middle ear includes the tympanic cavity and the three ossicles.",
+    "paper": "Human Ear Anatomy",
+    "section": "Biology"
+  }
+]
