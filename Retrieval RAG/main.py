@@ -4,7 +4,7 @@ query = input("Ask a question: ")
 
 answer, sources, confidence = run_pipeline(query)
 
-print("\nRetrieved Evidence:\n")
+print("\nAnswer:\n")
 print(answer)
 
 print("\nSources:")
